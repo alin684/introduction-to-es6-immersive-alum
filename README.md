@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1. Describe the major new features in ES6
 2. Explain how `let` and `const` differ from `var`
 3. Describe how to use arrow functions
